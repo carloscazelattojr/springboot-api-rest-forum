@@ -1,4 +1,4 @@
-package br.com.carlosjunior.forum.dto;
+package br.com.carlosjunior.forum.controller.dto;
 
 import java.time.LocalDateTime;
 import java.util.List;
