@@ -16,9 +16,17 @@ En: Spring Boot API REST FORUM: Build an API Security, Cache and Monitoring.
 - Spring Security
 - Actuator
 
-- Postman para testes na API!
+
+
+**Aplicações Externas:**
+
+1) Postman para testes na API
+2) Spring Boot Admin Server(codecentric's). Veja a implementação em: https://github.com/carlosjunior1983/springboot-admin-server-monitoring
 
 ## Tecnologia
 
 `Java` `Spring Boot` `Spring MVC` `Spring Security` 
  
+ 
+ 
+ Credits: Alura
