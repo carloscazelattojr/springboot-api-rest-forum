@@ -2,6 +2,8 @@
 
 Estudos CRUD com Spring Boot API REST, Segurança da API, Cache e Monitoramento
 
+En: Spring Boot API REST FORUM: Build an API Security, Cache and Monitoring.
+
 
 ## Projeto: Dependências
 
@@ -12,6 +14,9 @@ Estudos CRUD com Spring Boot API REST, Segurança da API, Cache e Monitoramento
 - Validation
 - Cache
 - Spring Security
+- Actuator
+
+- Postman para testes na API!
 
 ## Tecnologia
 
