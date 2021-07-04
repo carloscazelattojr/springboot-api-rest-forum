@@ -15,17 +15,26 @@ En: Spring Boot API REST FORUM: Build an API Security, Cache and Monitoring.
 - Cache
 - Spring Security
 - Actuator
-
+- MySql Driver
 
 
 **Aplicações Externas:**
 
 1) Postman para testes na API
-2) Spring Boot Admin Server(codecentric's). Veja a implementação em: https://github.com/carlosjunior1983/springboot-admin-server-monitoring
+2) Monitoramento: Spring Boot Admin Server(codecentric's) em: https://github.com/carlosjunior1983/springboot-admin-server-monitoring
+3) Swagger/SpringFox (https://springfox.github.io/springfox/) e (http://springfox.github.io/springfox/docs/current/)
+  
+
+
+## Hosts
+
+http://localhost:8080/
+
+http://localhost:8080/swagger-ui.html
 
 ## Tecnologia
 
-`Java` `Spring Boot` `Spring MVC` `Spring Security` 
+`Java` `Spring Boot` `Spring MVC` `Spring Security` `MySql` `Cache` `Actuator` `Spring Boot Admin-Server` `Swagger`
  
  
  
