@@ -1,6 +1,6 @@
-# Spring Boot API REST: Construa uma API - FORUM
+# Spring Boot API REST: Construa uma API - FORUM com Segurança da API, Cache e Monitoramento.
 
-Estudos CRUD com Spring Boot API REST
+Estudos CRUD com Spring Boot API REST, Segurança da API, Cache e Monitoramento
 
 
 ## Projeto: Dependências
@@ -11,8 +11,9 @@ Estudos CRUD com Spring Boot API REST
 - H2
 - Validation
 - Cache
+- Spring Security
 
 ## Tecnologia
 
-`Java` `Spring Boot` `Spring MVC`
+`Java` `Spring Boot` `Spring MVC` `Spring Security` 
  
