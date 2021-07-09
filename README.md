@@ -1,8 +1,8 @@
-# Spring Boot API REST: Construa uma API - FORUM com Segurança da API, Cache e Monitoramento.
+# Spring Boot API REST: Construa uma API - FORUM com Segurança da API, Cache, Monitoramento, Profile e Testes
 
-Estudos CRUD com Spring Boot API REST, Segurança da API, Cache e Monitoramento
+Estudos CRUD com Spring Boot API REST, Segurança da API, Cache, Monitoramento, Profile e Testes
 
-En: Spring Boot API REST FORUM: Build an API Security, Cache and Monitoring.
+En: Spring Boot API REST FORUM: Build an API Security, Cache, Monitoring, Profiles and Tests
 
 
 ## Projeto: Dependências

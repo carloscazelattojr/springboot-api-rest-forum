@@ -18,3 +18,4 @@ public class DevSecurityConfigurations extends WebSecurityConfigurerAdapter {
 	}
 
 }
+ 
